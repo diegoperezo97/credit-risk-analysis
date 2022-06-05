@@ -28,7 +28,9 @@ Table 1. Consolidated results that describe the balanced accuracy score and the 
 | Undersampling | 0.9208494208 | 0.92 | 0.92
 | Combination (Over and Under) Sampling | 0.8768478321 | 0.88 | 0.88
 | Balanced Random Forest Classifier | 0.7587927757 | 0.99 | 0.89
-| Easy Ensemble AdaBoost Classifier | 0.917333617 | 30.95 | 0.95
+| Easy Ensemble AdaBoost Classifier | 0.917333617 | 0.99 | 0.95
 
 
 ## Summary of the Analysis
+
+The first five models all provide comparable results and have an accuracy of roughly 75% to 92%. The Easy Ensambles Classifier is the apparent standout, with a 93.17 percent accuracy and 92 percent sensitivity, indicating that we are catching the majority of high-risk loans. This model is the apparent recommendation, however it may be necessary to double-check if the high-risk loans are indeed high-risk, or if they are simply model faults.
