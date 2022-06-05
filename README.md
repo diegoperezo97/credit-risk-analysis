@@ -22,7 +22,7 @@ Machine Learning necessitates consideration of the human element as well. After 
 Table 1. Consolidated results that describe the balanced accuracy score and the precision and recall scores of all six machine learning models
 
 | MACHINE LEARNING MODEL | BALANCED ACCURACY SCORE | PRECISION | RECALL
-| ----------- | ----------- | -----------
+| ----------- | ----------- | ----------- | -----------
 | Naive Random Oversampling | 0.8443807716 | 0.84 | 0.84
 | SMOTE Oversampling | 0.8828795124 | 0.88 | 0.88
 | Undersampling | 0.9208494208 | 0.92 | 0.92
