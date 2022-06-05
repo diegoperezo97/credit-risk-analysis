@@ -33,4 +33,4 @@ Table 1. Consolidated results that describe the balanced accuracy score and the 
 
 ## Summary of the Analysis
 
-The first five models all provide comparable results and have an accuracy of roughly 75% to 92%. The Easy Ensambles Classifier is the apparent standout, with a 93.17 percent accuracy and 92 percent sensitivity, indicating that we are catching the majority of high-risk loans. This model is the apparent recommendation, however it may be necessary to double-check if the high-risk loans are indeed high-risk, or if they are simply model faults.
+* The first five models all provide comparable results and have an accuracy of roughly 75% to 92%. The Easy Ensambles Classifier is the apparent standout, with a 93.17 percent accuracy and 92 percent sensitivity, indicating that we are catching the majority of high-risk loans. This model is the apparent recommendation, however it may be necessary to double-check if the high-risk loans are indeed high-risk, or if they are simply model faults.
