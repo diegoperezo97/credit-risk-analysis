@@ -1,4 +1,4 @@
-# Supervised Machine Learning and Credit Risk
+# MODULE 17: Supervised Machine Learning and Credit Risk
 
 People borrow money to buy houses, automobiles, establish businesses, and further their education all across the world. Loans are a necessary aspect of contemporary society, but they also give banks and other lending organizations with an opportunity and a difficulty. On the one hand, loans produce revenue from the interest they earn, but there is a danger that borrowers would default on their loans, causing banks to lose money.
 
@@ -19,7 +19,7 @@ Machine Learning necessitates consideration of the human element as well. After 
 
 ## Results of the Analysis
 
-Table 1. Consolidated results that describe the balanced accuracy score and the precision and recall scores of all six machine learning models
+**Table 1. Consolidated results that describe the balanced accuracy score and the precision and recall scores of all six machine learning models**
 
 | MACHINE LEARNING MODEL | BALANCED ACCURACY SCORE | PRECISION | RECALL
 | ----------- | ----------- | ----------- | -----------
@@ -29,7 +29,6 @@ Table 1. Consolidated results that describe the balanced accuracy score and the 
 | Combination (Over and Under) Sampling | 0.8768478321 | 0.88 | 0.88
 | Balanced Random Forest Classifier | 0.7587927757 | 0.99 | 0.89
 | Easy Ensemble AdaBoost Classifier | 0.917333617 | 0.99 | 0.95
-
 
 ## Summary of the Analysis
 
